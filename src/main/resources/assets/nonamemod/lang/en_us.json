@@ -1,0 +1,43 @@
+{
+  "item.nonamemod.steel_ingot": "Steel Ingot",
+  "item.nonamemod.steel_beed": "Steel Beed",
+  "item.nonamemod.fireball_staff": "§cFireball Staff§r",
+  "item.nonamemod.lightning_staff": "§dLightning Staff§r",
+  "item.nonamemod.pyro_condensate": "Pyro Condensate",
+  "item.nonamemod.raw_pyro_condensate": "Raw Pyro Condensate",
+  "item.nonamemod.electro_condensate": "Electro Condensate",
+  "item.nonamemod.raw_electro_condensate": "Raw Electro Condensate",
+  "item.nonamemod.upgraded_coal": "Upgraded Coal",
+  "item.nonamemod.chili_pepper": "Chili Pepper",
+  "item.nonamemod.flee_stick": "Flee Stick",
+
+  "item.nonamemod.pyro_condensate_sword": "Pyro Condensate Sword",
+  "item.nonamemod.pyro_condensate_axe": "Pyro Condensate Axe",
+  "item.nonamemod.pyro_condensate_pickaxe": "Pyro Condensate Pickaxe",
+  "item.nonamemod.pyro_condensate_hoe": "Pyro Condensate Hoe",
+  "item.nonamemod.pyro_condensate_shovel": "Pyro Condensate Shovel",
+
+  "item.nonamemod.electro_condensate_sword": "Electro Condensate Sword",
+  "item.nonamemod.electro_condensate_axe": "Electro Condensate Axe",
+  "item.nonamemod.electro_condensate_pickaxe": "Electro Condensate Pickaxe",
+  "item.nonamemod.electro_condensate_hoe": "Electro Condensate Hoe",
+  "item.nonamemod.electro_condensate_shovel": "Electro Condensate Shovel",
+
+  "block.nonamemod.steel_block": "Steel Block",
+  "block.nonamemod.pyro_condensate_ore": "Pyro Condensate Ore",
+  "block.nonamemod.electro_condensate_ore": "Electro Condensate Ore",
+  "block.nonamemod.item_generator_block": "Item Generator Block",
+  "block.nonamemod.lava_lamp": "Lava Lamp",
+  "block.nonamemod.chili_pepper_bush": "Chili Pepper Bush",
+
+  "itemGroup.nonamemodtab": "No Name Mod",
+  "tooltip.nonamemod.shift": "Press §6SHIFT§r for more information",
+  "tooltip.nonamemod.fireball_staff": "§9Shoot a fireball to explode your foes!§r",
+  "tooltip.nonamemod.lightning_staff": "§9Strike lightning upon your foes!§r",
+  "tooltip.nonamemod.upgraded_coal": "§9Just like coal, but 4x as efficient!§r",
+  "tooltip.nonamemod.flee_stick": "§9Hit your enemy to flee combat!§r",
+  "tooltip.nonamemod.item_generator_block": "§9Summons a random item!§r",
+  "tooltip.nonamemod.lava_lamp": "§9Emits light when lava is poured in!§r",
+
+  "enchantment.nonamemod.gripper": "Gripper"
+}

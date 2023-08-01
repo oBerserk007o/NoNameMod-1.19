@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "full=false": { "model": "nonamemod:block/lava_lamp_on" },
+    "full=true": { "model": "nonamemod:block/lava_lamp_on" }
+  }
+}

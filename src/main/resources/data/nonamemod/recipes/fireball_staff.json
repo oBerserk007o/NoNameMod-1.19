@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sps",
+    "sbs",
+    "dbd"
+  ],
+  "key": {
+    "b": {
+      "item": "minecraft:blaze_rod"
+    },
+    "p": {
+      "item": "nonamemod:pyro_condensate"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "s": {
+      "item": "nonamemod:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "nonamemod:fireball_staff",
+    "count": 1
+  }
+}

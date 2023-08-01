@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "nonamemod:item/electro_condensate_pickaxe"
+  }
+}

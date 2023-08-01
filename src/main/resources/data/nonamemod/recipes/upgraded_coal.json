@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cgc",
+    "gcg",
+    "cgc"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:coal"
+    },
+    "g": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "result": {
+    "item": "nonamemod:upgraded_coal",
+    "count": 4
+  }
+}

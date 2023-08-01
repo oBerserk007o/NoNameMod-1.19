@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ses",
+    "sls",
+    "dld"
+  ],
+  "key": {
+    "l": {
+      "item": "minecraft:lightning_rod"
+    },
+    "e": {
+      "item": "nonamemod:electro_condensate"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "s": {
+      "item": "nonamemod:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "nonamemod:lightning_staff",
+    "count": 1
+  }
+}

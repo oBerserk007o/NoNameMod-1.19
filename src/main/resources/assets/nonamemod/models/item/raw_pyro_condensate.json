@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "nonamemod:item/raw_pyro_condensate"
+  }
+}
